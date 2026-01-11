@@ -1,5 +1,6 @@
 # Artisan
 ARTISAN — Premium Indulgence Platform | Luxury artisan food SaaS App
+
 <img width="1755" height="3915" alt="image" src="https://github.com/user-attachments/assets/d3235f49-52c7-4c1f-adcc-023449036593" />
 
 

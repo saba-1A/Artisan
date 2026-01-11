@@ -1,6 +1,7 @@
 # Artisan
 ARTISAN — Premium Indulgence Platform | Luxury artisan food SaaS App
-<img width="1880" height="911" alt="image" src="https://github.com/user-attachments/assets/a9250025-9116-4344-9e41-b364b6daf254" />
+![Uploading image.png…]()
+
 
 An ultra-luxury, high-end artisan food subscription service designed for the modern connoisseur. This platform redefines the "SaaS for Food" experience, blending editorial-grade aesthetics with a seamless, subscription-based wellness journey.
 
